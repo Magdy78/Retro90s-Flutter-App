@@ -1,16 +1,16 @@
-# finalproject2
+# Retro90s Flutter Project
 
-A new Flutter project.
-
+This an Ecommerce App Works with Flutter , Buying a football shirts from our app is easier and more fun to watch 
 ## Getting Started
+===============================
+## Screens From The Project
+### Home Page
+![Home Page](/Media/frame1.png "Optional Title")
+### Kit Page
+![Liverpool Kit](/Media/frame2.png "Optional Title")
+### Kit Page
+![PSG Kit](/Media/frame3.png "Optional Title")
+### Trending Page
+![Trending](/Media/frame4.png "Optional Title")
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
