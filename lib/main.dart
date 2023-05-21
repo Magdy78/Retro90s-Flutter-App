@@ -1,3 +1,4 @@
+import 'package:finalproject2/Screens/HomePage.dart';
 import 'package:finalproject2/Screens/list_files.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
@@ -5,7 +6,7 @@ void main(){
 
 runApp(
   MaterialApp(
-    home: ListFiles(),
+    home: HomePage(),
     theme: ThemeData(
         scaffoldBackgroundColor: Color(0xFF0A0E21),
 
